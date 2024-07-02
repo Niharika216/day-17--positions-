@@ -1,0 +1,169 @@
+#table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+div img{
+    width: 300px;
+}
+#faf{
+    position: relative;
+    left: 300px;
+    z-index: 24;
+}
+#ruturaj{
+    position: relative;
+    z-index: 25;
+    left: 100px;
+}
+#hardik{
+    position: relative;
+    z-index: 25;
+}
+#rishabh{
+    position: relative;
+    right: 200px;
+    z-index: 24;
+}
+#shubman{
+    position: relative;
+    margin-top: -00px;
+    bottom: 305px;
+    left: 200px;
+    z-index: 23;
+}
+#pat{
+    position: relative;
+    margin-top: -00px;
+    bottom: 305px;
+    right: 200px;
+    z-index: 22;
+}
+#shreyas{
+    position: relative;
+    margin-top: -00px;
+    bottom: 305px;
+    left: 200px;
+    z-index: 23;
+
+}
+#rahul{
+    position: relative;
+    margin-top: -00px;
+    bottom: 305px;
+    z-index: 22;
+}
+.captains{
+    border: 5px black dotted;
+    height: 320px;
+    background-image: url(./images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    position: sticky;
+    text-align: center;
+    top: 0;
+    border: 2px solid green;
+    background-color: rgb(118, 236, 118);
+}
+.RCBPlayer{
+    width: 300px;
+    background-color: red;
+    border: 5px dotted blue;
+}
+#viratPic{
+    position: relative;
+    left: 100px;
+}
+#karthikPic{
+    position: relative;
+    left: 300px;
+}
+#fafPic{
+    position: relative;
+    right: 100px;
+    z-index: 20;
+    width: 350px;
+}
+#sauravPic{
+    position: relative;
+    right: 290px;
+    z-index: 19;
+}
+#willPic{
+    position: relative;
+    bottom: 300px;
+    left: 780px;
+    z-index: 18;
+}
+.RCBTeam{
+    height: 380px;
+}
+.CSKPlayer{
+    width: 300px;
+    background-color: yellow;
+    border: 5px dotted orangered;
+}
+#ruturajPic{
+    position: relative;
+    width: 350px;
+    right: 100px;
+    z-index: 20;
+}
+#dhoniPic{
+    position: relative;
+    z-index: 19;
+    left: 100px;
+}
+#jadejaPic{
+    position: relative;
+    right: 300px;
+    z-index: 19;
+}
+#devonPic{
+    position: relative;
+    left: 300px;
+    z-index: 18;
+}
+#shivamPic{
+    position: relative;
+    bottom: 305px;
+    left: 750px;
+}
+#CSKTeam{
+    height: 350px;
+}
+#yashPic{
+    position: relative;
+    bottom: 305px;
+    left: 830px;
+    z-index: 17;
+}
+#kuldeepPic{
+    position: relative;
+    right: 250px;
+    z-index: 19;
+}
+#rishabhPic{
+    position: relative;
+    right: 50px;
+    z-index: 20;
+    width: 350px;
+}
+#davidPic{
+    position: relative;
+    left: 150px;
+    z-index: 19;
+}
+#pritviPic{
+    position: relative;
+    left: 350px;
+}
+#delhi{
+    height: 380px;
+}
+.DCPic{
+    width: 300px;
+    background-color: blue;
+    border: 5px rgb(255, 64, 150) dashed;
+}
